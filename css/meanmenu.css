@@ -197,9 +197,12 @@ display: none;
 }
 a {
 color: #000;
+font-family: 'Share Tech', sans-serif;
+font-size:30px;
+
 }
 a:hover {
-color: #333;
+color: #FFF;
 }
 a, a:hover {
 -o-transition: color 0.25s ease-in;
