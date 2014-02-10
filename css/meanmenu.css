@@ -151,7 +151,7 @@ header nav ul li {
 display: inline;
 margin-left: 1em;
 background-color:#0CF;
-width:30px;
+width:100px;
 height:30px;}
 
 
@@ -162,12 +162,7 @@ color: #f77564;
 a:hover {
 color: #333;
 }
-a, a:hover {
--o-transition: color 0.25s ease-in;
--webkit-transition: color 0.25s ease-in;
--moz-transition: color 0.25s ease-in;
-transition: color 0.25s ease-in;
-}
+
 section, article, header {
 display: block;
 float: left;
