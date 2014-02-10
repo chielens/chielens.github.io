@@ -24,15 +24,15 @@ a{color:#FFF;}
 	display: block;
 	float: left;
 	padding: 20px;
-	width: 33%;
-	opacity: 0,5;
+	width: 20%;
+	opacity: 0;
 }
 
 .grid li:hover {
 	display: block;
 	float: left;
 	padding: 20px;
-	opacity: 1;
+	opacity: 0;
 	
 }
 
