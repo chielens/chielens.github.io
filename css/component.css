@@ -6,6 +6,14 @@ width:100%;
 height:55px;
 margin:0 auto}
 
+.containernav{width:700px; height:20px; margin:auto;}
+
+.button{width:200px;
+height:20px;
+float:left;
+list-style-type:none;
+padding:10px;}
+
 .grid {
 	max-width: 69em;
 	list-style: none;

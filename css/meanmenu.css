@@ -166,3 +166,35 @@ a.meanmenu-reveal {
 .mean-remove {
 	display: none !important;
 }
+
+
+header nav {
+text-align: center;
+}
+header nav ul {
+margin: 0;
+padding: 1em;
+list-style-type: none;
+}
+header nav ul li {
+display: inline;
+margin-left: 1em;
+}
+
+a {
+color: #FFF;
+font-family: 'Share Tech', sans-serif;
+}
+a:hover {
+color: #333;
+}
+
+section, article, header {
+display: block;
+float: left;
+width: 100%;
+}
+article {
+width: 96%;
+padding: 3em 2%;
+}
