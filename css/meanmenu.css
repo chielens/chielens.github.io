@@ -145,9 +145,6 @@ header nav ul {
 margin: 0;
 padding: 1em;
 list-style-type: none;
-width:100px;
-height:30px;
-float:left;
 
 }
 header nav ul li {
@@ -156,8 +153,10 @@ margin-left: 1em;
 background-color:#0CF;
 }
 
-
-
+.button{background-color:#0FC;
+width:120px;
+height:50px;
+float:left;}
 a {
 color: #f77564;
 }
