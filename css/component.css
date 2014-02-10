@@ -8,14 +8,15 @@ margin:0 auto}
 
 
 .logo{
-    max-width:50%;
+    max-width:150%;
+	margin-top:10%;
     position: relative;
     display:block;
     margin:0 auto;
 }
 .logo img{
-    width:200% !important;
-    height:200% !important;
+    width:100% !important;
+    height:100% !important;
     display:block;
 }
 .button{width:200px;
