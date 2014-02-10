@@ -39,7 +39,7 @@ a{color:#FFF;}
 .grid li.shown,
 .no-js .grid li,
 .no-cssanimations .grid li {
-	opacity: 1;
+	opacity: 0;
 }
 
 .grid li a,
