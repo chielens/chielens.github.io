@@ -145,17 +145,17 @@ header nav ul {
 margin: 0;
 padding: 1em;
 list-style-type: none;
+
 }
 header nav ul li {
 display: inline;
 margin-left: 1em;
-}
-header nav ul li:first-child {
-margin-left: 0;
-}
-header nav ul li ul {
-display: none;
-}
+background-color:#0CF;
+width:30px;
+height:30px;}
+
+
+
 a {
 color: #f77564;
 }
