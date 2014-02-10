@@ -13,23 +13,24 @@
 		<link rel="shortcut icon" href="../favicon.ico"> 
 		<link rel="stylesheet" type="text/css" href="css/default.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
-        <link rel="stylesheet" type="text/css" href="css/meanmenu.css" />
-       
+
+       <script src="js/masonry.pkgd.min.js"></script>
+		<script src="js/imagesloaded.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/AnimOnScroll.js"></script>
+		<script>
+			new AnimOnScroll( document.getElementById( 'grid' ), {
+				minDuration : 0.4,
+				maxDuration : 0.7,
+				viewportFactor : 0.2
+			} );
+		</script>
 		<script src="js/modernizr.custom.js"></script>
 
 	</head>
 	<body>
 		<div id="containerhead">
-       		<header>
-	<nav>
-		<ul>
-			<li><a href="#">Top Level Link</a>
-				
-			<li><a href="#">Top Level Link</a></li>
-			<li><a href="#">Top Level Link</a></li>
-			<li><a href="#">Top Level Link</a></li>
-		</ul>
-	</nav>
+       	
 </header>
 
         </div>
@@ -73,24 +74,8 @@
 				<li><a href="http://www.demorgen.be"><img src="images/bb.png"></a></li>
 			</ul>
 		</div>
-		<script src="js/masonry.pkgd.min.js"></script>
-		<script src="js/imagesloaded.js"></script>
-		<script src="js/classie.js"></script>
-		<script src="js/AnimOnScroll.js"></script>
-		<script>
-			new AnimOnScroll( document.getElementById( 'grid' ), {
-				minDuration : 0.4,
-				maxDuration : 0.7,
-				viewportFactor : 0.2
-			} );
-		</script>
-        <script src="http://code.jquery.com/jquery-1.9.1.js"></script> 
-<script src="js/jquery.meanmenu.js"></script> 
-<script>
-jQuery(document).ready(function () {
-    jQuery('header nav').meanmenu();
-});
-</script>
+		
+      
      
 	</body>
 </html>
