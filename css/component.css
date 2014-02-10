@@ -8,7 +8,8 @@ margin:0 auto}
 
 
 .logo{
-    max-width:250%;
+    min-width:100%;
+	max-width:200%;
 	height:auto;
 	position: relative;
 	top:10%;
