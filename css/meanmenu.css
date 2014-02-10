@@ -179,7 +179,6 @@ text-align: center;
 }
 header nav {
 text-align: center;
-background: #efefef;
 }
 header nav ul {
 margin: 0;
@@ -197,7 +196,7 @@ header nav ul li ul {
 display: none;
 }
 a {
-color: #f77564;
+color: #000;
 }
 a:hover {
 color: #333;
