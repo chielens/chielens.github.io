@@ -22,12 +22,38 @@
 	</head>
 	<body>
 		<div id="header">
-       		<header>
+       		
+<header>
 	<nav>
 		<ul>
-			<li><a href="#">ABOUT</a>
-			<li><a href="#">REFERENCE</a></li>
-			<li><a href="#">CONTACT</a></li>
+			<li><a href="#">Top Level Link</a>
+				<ul>
+					<li><a href="#">Second Level Link</a>
+						<ul>
+							<li><a href="#">Third Level Link</a></li>
+							<li><a href="#">Third Level Link</a></li>
+							<li><a href="#">Third Level Link</a>
+								<ul>
+									<li><a href="#">Fourth Level Link</a></li>
+									<li><a href="#">Fourth Level Link</a></li>
+									<li><a href="#">Fourth Level Link with extra long name so it wraps</a>
+										<ul>
+											<li><a href="#">Fifth Level Link</a></li>
+											<li><a href="#">Fifth Level Link</a></li>
+											<li><a href="#">Fifth Level Link</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a href="#">Second Level Link</a></li>
+					<li><a href="#">Second Level Link</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Top Level Link</a></li>
+			<li><a href="#">Top Level Link</a></li>
+			<li><a href="#">Top Level Link</a></li>
 		</ul>
 	</nav>
 </header>
@@ -84,7 +110,8 @@
 			} );
 		</script>
         
-        <script src="js/jquery.meanmenu.js"></script> 
+       <script src="http://code.jquery.com/jquery-1.9.1.js"></script> 
+<script src="jquery.meanmenu.js"></script> 
 <script>
 jQuery(document).ready(function () {
     jQuery('header nav').meanmenu();

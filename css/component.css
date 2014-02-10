@@ -15,29 +15,7 @@ margin-top:30px;
 .container2{ margin:0 auto;
 width:300px;}
 
-.about{
-	font:Verdana, Geneva, sans-serif;
-	height:20px;
-	padding: 5px;
-	background-color: #F63;
-	float:left;
-	margin-left:auto;
-	text-align:center;
-	margin:auto;
-	display: block;
-	max-width:100%;
-}
 
-.about:hover{
-	font:Verdana, Geneva, sans-serif;
-	width:100px;
-	height:20px;
-	padding: 5px;
-	background-color: #FFF;
-	text-align:center;
-	display: block;
-
-}
 
 a{color:#FFF;}
 
