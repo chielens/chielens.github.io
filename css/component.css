@@ -2,7 +2,8 @@ body{background-color: #FFF;}
 
 
 .bovenbalk{background:#F60;
-width:300px;}
+width:300px;
+height:3px;}
 
 .grid {
 	max-width: 69em;
