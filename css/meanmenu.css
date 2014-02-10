@@ -143,22 +143,27 @@ text-align: center;
 }
 header nav ul {
 margin: 0;
-padding: 1em;
 list-style-type: none;
 
 }
 header nav ul li {
 display: inline;
 margin-left: 1em;
-background-color:#0CF;
 }
 
-.button{background-color:#0FC;
+.button{background-color:#F60;
 width:120px;
-height:50px;
-float:left;}
+height:20px;
+float:left;
+padding:10px;}
+
+.button:hover {background-color:#F93;
+width:120px;
+height:20px;
+float:left;
+padding:10px;}
 a {
-color: #f77564;
+color:#FFF;
 }
 a:hover {
 color: #333;
