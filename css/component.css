@@ -8,9 +8,9 @@ margin:0 auto}
 
 
 .logo{
-    max-width:300%;
-	margin-top:50%;
-    position: relative;
+    max-width:100%;
+	top:50%;
+	position: relative;
     display:block;
     margin:0 auto;
 	vertical-align:middle;
