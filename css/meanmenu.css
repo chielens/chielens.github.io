@@ -183,7 +183,7 @@ margin-left: 1em;
 
 
 a {
-color: #FFF200;
+color: #0075B5;
 font-family: 'Share Tech', sans-serif;
 font-size:18px;
 
@@ -192,15 +192,7 @@ a:hover {
 color: #FFF;
 }
 
-b {
-color: #000;
-font-family: 'Share Tech', sans-serif;
-font-size:30px;
 
-}
-b:hover {
-color: #FFF;
-}
 a, a:hover {
 -o-transition: color 0.25s ease-in;
 -webkit-transition: color 0.25s ease-in;
