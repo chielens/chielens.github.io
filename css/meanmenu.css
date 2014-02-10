@@ -145,14 +145,16 @@ header nav ul {
 margin: 0;
 padding: 1em;
 list-style-type: none;
+width:100px;
+height:30px;
+float:left;
 
 }
 header nav ul li {
 display: inline;
 margin-left: 1em;
 background-color:#0CF;
-width:100px;
-height:30px;}
+}
 
 
 
