@@ -151,7 +151,8 @@ margin-left: 1em;
 a {
 color: #0075B5;
 font-family: 'Share Tech', sans-serif;
-font-size:18px;
+font-size:25px;
+margin-left:20px;
 
 }
 a:hover {
