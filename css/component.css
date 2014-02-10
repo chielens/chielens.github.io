@@ -9,15 +9,15 @@ margin:0 auto}
 
 .logo{
     max-width:100%;
-	min-width:100%;height:auto;
+	height:auto;
 	position: relative;
     display:block;
     margin:0 auto;
 	outline: 0;
 }
 .logo img{
-    width:100% !important;
-    height:100% !important;
+    width:50% !important;
+    height:50% !important;
     display:block;
 }
 .button{width:200px;
