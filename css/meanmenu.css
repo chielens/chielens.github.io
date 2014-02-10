@@ -198,10 +198,20 @@ display: none;
 a {
 color: #000;
 font-family: 'Share Tech', sans-serif;
-font-size:30px;
+font-size:18px;
 
 }
 a:hover {
+color: #FFF;
+}
+
+b {
+color: #000;
+font-family: 'Share Tech', sans-serif;
+font-size:30px;
+
+}
+b:hover {
 color: #FFF;
 }
 a, a:hover {
