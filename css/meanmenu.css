@@ -199,10 +199,10 @@ header nav ul li ul {
 display: none;
 }
 a {
-color: #f77564;
+color: #000;
 }
 a:hover {
-color: #333;
+color: #f77564;
 }
 a, a:hover {
 -o-transition: color 0.25s ease-in;
