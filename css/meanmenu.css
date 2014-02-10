@@ -39,7 +39,7 @@ a.meanmenu-reveal {
 	line-height: 22px;
 	font-size: 1px;
 	display: block;
-	font-family: 'Share Tech', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: 700;
 }
 
@@ -167,11 +167,10 @@ a.meanmenu-reveal {
 	display: none !important;
 }
 
-
 body {
 margin: 0;
 padding: 0;
-font:font-family: 'Share Tech', sans-serif;
+font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 h1 {
 font-size: 28px;
@@ -198,10 +197,10 @@ header nav ul li ul {
 display: none;
 }
 a {
-color: #000;
+color: #f77564;
 }
 a:hover {
-color: #f77564;
+color: #333;
 }
 a, a:hover {
 -o-transition: color 0.25s ease-in;
@@ -218,3 +217,4 @@ article {
 width: 96%;
 padding: 3em 2%;
 }
+</style>

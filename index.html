@@ -13,6 +13,9 @@
 		<link rel="shortcut icon" href="../favicon.ico"> 
 		<link rel="stylesheet" type="text/css" href="css/default.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
+        <link rel="stylesheet" type="text/css" href="css/meanmenu.css" />
+
+        
 
        
 		<script src="js/modernizr.custom.js"></script>
@@ -21,6 +24,39 @@
 	<body>
 		<div id="containerhead">
        	
+<header>
+	<nav>
+		<ul>
+			<li><a href="#">Top Level Link</a>
+				<ul>
+					<li><a href="#">Second Level Link</a>
+						<ul>
+							<li><a href="#">Third Level Link</a></li>
+							<li><a href="#">Third Level Link</a></li>
+							<li><a href="#">Third Level Link</a>
+								<ul>
+									<li><a href="#">Fourth Level Link</a></li>
+									<li><a href="#">Fourth Level Link</a></li>
+									<li><a href="#">Fourth Level Link with extra long name so it wraps</a>
+										<ul>
+											<li><a href="#">Fifth Level Link</a></li>
+											<li><a href="#">Fifth Level Link</a></li>
+											<li><a href="#">Fifth Level Link</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a href="#">Second Level Link</a></li>
+					<li><a href="#">Second Level Link</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Top Level Link</a></li>
+			<li><a href="#">Top Level Link</a></li>
+			<li><a href="#">Top Level Link</a></li>
+		</ul>
+	</nav>
 </header>
 
         </div>
@@ -75,7 +111,13 @@
 				viewportFactor : 0.2
 			} );
 		</script>
-      
+      <script src="http://code.jquery.com/jquery-1.9.1.js"></script> 
+<script src="jquery.meanmenu.js"></script> 
+<script>
+jQuery(document).ready(function () {
+    jQuery('header nav').meanmenu();
+});
+</script>
      
 	</body>
 </html>

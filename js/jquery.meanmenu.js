@@ -1,4 +1,4 @@
-0/*!
+/*!
  * jQuery meanMenu v2.0.6
  * @Copyright (C) 2012-2013 Chris Wharton (https://github.com/weare2ndfloor/meanMenu)
  *
