@@ -12,13 +12,24 @@
 		<link rel="shortcut icon" href="../favicon.ico"> 
 		<link rel="stylesheet" type="text/css" href="css/default.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
+        <link rel="stylesheet" href="meanmenu.css" media="all" />
        
 		<script src="js/modernizr.custom.js"></script>
 
 	</head>
 	<body>
 		<div id="header">
-       		
+       		<header>
+	<nav>
+		<ul>
+			<li><a href="#">Top Level Link</a>
+				
+			<li><a href="#">Top Level Link</a></li>
+			<li><a href="#">Top Level Link</a></li>
+			<li><a href="#">Top Level Link</a></li>
+		</ul>
+	</nav>
+</header>
 
         </div>
         
@@ -72,7 +83,13 @@
 				viewportFactor : 0.2
 			} );
 		</script>
-        
+        <script src="http://code.jquery.com/jquery-1.9.1.js"></script> 
+<script src="js/jquery.meanmenu.js"></script> 
+<script>
+jQuery(document).ready(function () {
+    jQuery('header nav').meanmenu();
+});
+</script>
      
 	</body>
 </html>
