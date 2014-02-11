@@ -52,7 +52,7 @@ a{color:#FFF;}
 	padding: 20px;
 	width: 33%;
 	opacity:0.4;
-	filter:alpha(opacity=40)
+	filter:alpha(opacity=40);
 }
 
 .grid li:hover {
@@ -60,7 +60,7 @@ a{color:#FFF;}
 	float: left;
 	padding: 20px;
 	opacity:1;
-	filter:alpha(opacity=100)
+	filter:alpha(opacity=100);
 	
 }
 
