@@ -121,7 +121,6 @@ a{color:#FFF;}
 
 	.caption-style-1 li{
 		max-width: 69em;
-		height:auto;
 		position: relative;
 		overflow: hidden;
 	}
@@ -133,8 +132,6 @@ a{color:#FFF;}
 
 
 	.caption-style-1 img{
-		margin: 0px;
-		padding: 0px;
 		float: left;
 		z-index: 4;
 	}
@@ -152,10 +149,11 @@ a{color:#FFF;}
 
 	}
 	.caption-style-1 .blur{
-		background-color:rgba(0,0,0,0.65);
-		max-width: 69em;
+		background-color:rgba(0,0,0,0.20);
+		height: 550px;
+		width: 550px;
 		z-index: 5;
-		position: absolute;
+		position: relative;
 	}
 
 	.caption-style-1 .caption-text h1{
@@ -165,9 +163,9 @@ a{color:#FFF;}
 	.caption-style-1 .caption-text{
 		z-index: 10;
 		color: #fff;
-		position: absolute;
-		width: 400px;
-		height: 300px;
+		position: relative;
+		height: 550px;
+		width: 550px;
 		text-align: center;
 		top:100px;
 	}
