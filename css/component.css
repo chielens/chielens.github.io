@@ -52,13 +52,8 @@ a{color:#FFF;}
 	padding: 20px;
 	width: 33%;
 	opacity: 0;
-	 color:blue;
-  -o-transition:color .2s ease-out, background 1s ease-in;
-  -ms-transition:color .2s ease-out, background 1s ease-in;
-  -moz-transition:color .2s ease-out, background 1s ease-in;
-  -webkit-transition:color .2s ease-out, background 1s ease-in;
-  /* ...and now override with proper CSS property */
-  transition:color .2s ease-out, background 1s ease-in;
+	opacity:0.4;
+	filter:alpha(opacity=40)
 }
 
 .grid li:hover {
@@ -66,7 +61,8 @@ a{color:#FFF;}
 	float: left;
 	padding: 20px;
 	opacity: 0;
-	color:red; 
+	opacity:1;
+	filter:alpha(opacity=100)
 	
 }
 
