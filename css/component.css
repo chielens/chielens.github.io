@@ -76,14 +76,7 @@ a{color:#FFF;}
 	max-width: 100%;
 }
 
-.grid li a,
-.grid li img:hover {
-	outline: none;
-	border: none;
-	display: block;
-	max-width: 100%;
-	opacity:0,4;
-}
+
 
 
 /* Effect 2: Move Up */
