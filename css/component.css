@@ -51,16 +51,18 @@ a{color:#FFF;}
 	float: left;
 	padding: 20px;
 	width: 33%;
+	opacity: 0;
 	opacity:1;
-	filter:alpha(opacity=100);
+	filter:alpha(opacity=100)
 }
 
 .grid li:hover {
 	display: block;
 	float: left;
 	padding: 20px;
-	opacity:0,4;
-	filter:alpha(opacity=40);
+	opacity: 0;
+	opacity:0.4;
+	filter:alpha(opacity=40)
 	
 }
 
