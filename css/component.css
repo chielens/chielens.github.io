@@ -51,22 +51,23 @@ a{color:#FFF;}
 	float: left;
 	padding: 20px;
 	width: 33%;
-	opacity:0.4;
-	filter:alpha(opacity=40);
+	opacity:1;
+	filter:alpha(opacity=100);
 }
 
 .grid li:hover {
 	display: block;
 	float: left;
 	padding: 20px;
-	opacity:1;
-	filter:alpha(opacity=100);
+	opacity:0,4;
+	filter:alpha(opacity=40);
 	
 }
 
 .grid li.shown,
 .no-js .grid li,
 .no-cssanimations .grid li {
+	opacity: 1;
 }
 
 .grid li a,
