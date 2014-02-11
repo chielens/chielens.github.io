@@ -116,15 +116,11 @@ a{color:#FFF;}
 
 .caption-style-1{
 		list-style-type: none;
-		margin: 0px;
-		padding: 0px;
 
 	}
 
 	.caption-style-1 li{
 		max-width: 69em;
-	list-style: none;
-	padding: 0;
 		position: relative;
 		overflow: hidden;
 	}
