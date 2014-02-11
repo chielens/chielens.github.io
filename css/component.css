@@ -51,7 +51,7 @@ a{color:#FFF;}
 	float: left;
 	padding: 20px;
 	width: 33%;
-	opacity: 0;
+	opacity: 1;
 }
 
 .grid li:hover {
@@ -111,5 +111,3 @@ a{color:#FFF;}
 		width: 100%;
 	}
 }
-
-///////////
