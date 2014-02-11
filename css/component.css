@@ -121,7 +121,6 @@ a{color:#FFF;}
 
 	.caption-style-1 li{
 		overflow: hidden;
-		position:absolute;
 	}
 
 	.caption-style-1 li:hover .caption{
@@ -151,6 +150,8 @@ a{color:#FFF;}
 		z-index: 5;
 		width:100px;
 		height:100px;
+				position: absolute;
+
 	}
 
 	.caption-style-1 .caption-text h1{
