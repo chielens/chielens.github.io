@@ -121,6 +121,7 @@ a{color:#FFF;}
 
 	.caption-style-1 li{
 		overflow: hidden;
+		position:relative;
 	}
 
 	.caption-style-1 li:hover .caption{
