@@ -52,6 +52,13 @@ a{color:#FFF;}
 	padding: 20px;
 	width: 33%;
 	opacity: 0;
+	 color:blue; background:white;
+  -o-transition:color .2s ease-out, background 1s ease-in;
+  -ms-transition:color .2s ease-out, background 1s ease-in;
+  -moz-transition:color .2s ease-out, background 1s ease-in;
+  -webkit-transition:color .2s ease-out, background 1s ease-in;
+  /* ...and now override with proper CSS property */
+  transition:color .2s ease-out, background 1s ease-in;
 }
 
 .grid li:hover {
@@ -59,6 +66,7 @@ a{color:#FFF;}
 	float: left;
 	padding: 20px;
 	opacity: 0;
+	color:red; background:yellow;
 	
 }
 
@@ -112,3 +120,4 @@ a{color:#FFF;}
 		width: 100%;
 	}
 }
+
