@@ -151,8 +151,8 @@ a{color:#FFF;}
 
 	}
 	.caption-style-1 .blur{
-		background-color:#FFF200;
-		max-width: 69em;
+		background-color: rgba(0,0,5,5.5);
+		height: 300px;
 		width: 400px;
 		z-index: 5;
 		position: absolute;
