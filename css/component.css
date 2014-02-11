@@ -120,7 +120,6 @@ a{color:#FFF;}
 	}
 
 	.caption-style-1 li{
-		position: relative;
 		overflow: hidden;
 	}
 
@@ -149,7 +148,6 @@ a{color:#FFF;}
 	}
 	.caption-style-1 .blur{
 		background-color:rgba(0,0,0,0.20);
-	
 		z-index: 5;
 	}
 
