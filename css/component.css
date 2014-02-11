@@ -120,6 +120,9 @@ a{color:#FFF;}
 	}
 
 	.caption-style-1 li{
+		max-width: 69em;
+	list-style: none;
+	margin: 30px auto;
 		position: relative;
 		overflow: hidden;
 		display: block;
@@ -135,8 +138,7 @@ a{color:#FFF;}
 
 
 	.caption-style-1 img{
-		margin: 0px;
-		padding: 0px;
+
 		float: left;
 		z-index: 4;
 	}
@@ -156,6 +158,7 @@ a{color:#FFF;}
 	.caption-style-1 .blur{
 		background-color: rgba(0,0,0,0.65);
 		width: 33%;
+		heigt
 		z-index: 5;
 		position: relative;
 	}
@@ -166,8 +169,7 @@ a{color:#FFF;}
 	}
 	.caption-style-1 .caption-text{
 		z-index: 10;
-		color: #fff;
-		position: absolute;
+		color: #FFF;
 		width: 400px;
 		height: 300px;
 		text-align: center;
