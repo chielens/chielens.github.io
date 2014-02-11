@@ -113,7 +113,7 @@ a{color:#FFF;}
 }
 
 ///////////
-thumb {
+.thumb {
 display: block;
 	float: left;
 	padding: 20px;
