@@ -114,12 +114,17 @@ a{color:#FFF;}
 
 ///////////
 
-.caption-style-1{
+	.caption-style-1{
 		list-style-type: none;
+		margin: 0px;
+		padding: 0px;
 
 	}
 
 	.caption-style-1 li{
+		float: left;
+		padding: 0px;
+		position: relative;
 		overflow: hidden;
 	}
 
@@ -130,6 +135,9 @@ a{color:#FFF;}
 
 
 	.caption-style-1 img{
+		margin: 0px;
+		padding: 0px;
+		float: left;
 		z-index: 4;
 	}
 
@@ -146,12 +154,11 @@ a{color:#FFF;}
 
 	}
 	.caption-style-1 .blur{
-		background-color:rgba(0,0,0,0.20);
+		background-color: rgba(0,0,0,0.65);
+		height: 300px;
+		width: 400px;
 		z-index: 5;
-		width:100px;
-		height:100px;
-				position: absolute;
-
+		position: absolute;
 	}
 
 	.caption-style-1 .caption-text h1{
@@ -161,8 +168,9 @@ a{color:#FFF;}
 	.caption-style-1 .caption-text{
 		z-index: 10;
 		color: #fff;
+		position: absolute;
+		width: 400px;
+		height: 300px;
 		text-align: center;
 		top:100px;
-				width:100px;
-		height:100px;
 	}
