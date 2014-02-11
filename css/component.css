@@ -116,16 +116,18 @@ a{color:#FFF;}
 
 .caption-style-1{
 		list-style-type: none;
+		margin: 0px;
+		padding: 0px;
 
 	}
 
 	.caption-style-1 li{
+		max-width: 69em;
+	list-style: none;
+	margin: 30px auto;
+	padding: 0;
 		position: relative;
 		overflow: hidden;
-		display: block;
-	float: left;
-	padding: 20px;
-	width: 33%;
 	}
 
 	.caption-style-1 li:hover .caption{
@@ -135,7 +137,8 @@ a{color:#FFF;}
 
 
 	.caption-style-1 img{
-
+		margin: 0px;
+		padding: 0px;
 		float: left;
 		z-index: 4;
 	}
@@ -143,7 +146,7 @@ a{color:#FFF;}
 
 	.caption-style-1 .caption{
 		cursor: pointer;
-		position: relative;
+		position: absolute;
 		opacity: 0;
 		-webkit-transition:all 0.45s ease-in-out;
 		-moz-transition:all 0.45s ease-in-out;
@@ -154,10 +157,10 @@ a{color:#FFF;}
 	}
 	.caption-style-1 .blur{
 		background-color: rgba(0,0,0,0.65);
-		width: 33%;
-		
+		height: 300px;
+		width: 400px;
 		z-index: 5;
-		position: relative;
+		position: absolute;
 	}
 
 	.caption-style-1 .caption-text h1{
@@ -166,7 +169,8 @@ a{color:#FFF;}
 	}
 	.caption-style-1 .caption-text{
 		z-index: 10;
-		color: #FFF;
+		color: #fff;
+		position: absolute;
 		width: 400px;
 		height: 300px;
 		text-align: center;
