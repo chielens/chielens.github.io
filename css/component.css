@@ -28,8 +28,8 @@ height: auto;
 .txt2{
     min-width:250px;
 	min-height:200px;
-	padding: 0 50px;
-		margin-top:25px;
+	padding: 0 30px;
+	margin-top:25px;
 	overflow:hidden;
 	word-wrap: break-word;
 }
@@ -37,9 +37,8 @@ height: auto;
     txt2{ width:50%; font-size:9px;}
 }
 
-.txt{
+.beeld{
 	width:200px;
-min-width:100px;
 	min-height:200px;
 	padding:30px;
 	overflow:hidden;
