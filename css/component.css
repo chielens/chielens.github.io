@@ -30,7 +30,7 @@ height: auto;
 	margin:0 auto;
 }
 @media screen and (max-width: 767px){
-    div.one{ width:100%}
+    txt{ width:100%}
 }
 
 .txt2{max-width:100%;
