@@ -26,8 +26,8 @@ height: auto;
 .txt{
     width:50%;
     min-width:100px;
-    float:left;
 	background-color:#0F9;
+	margin:0 auto;
 }
 @media screen and (max-width: 767px){
     div.one{ width:100%}
