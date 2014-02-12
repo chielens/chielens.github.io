@@ -29,6 +29,7 @@ height: auto;
 	background-color:#0F9;
 	margin:0 auto;
 	overflow:hidden;
+	word-wrap: break-word;
 }
 @media screen and (max-width: 767px){
     txt{ width:100%}
