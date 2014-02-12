@@ -22,7 +22,7 @@ height: auto;
     display:block;
 }
 
-.containertxt{margin:auto; width:70%;}
+.containertxt{margin:auto; width:70%; max-width:800px;}
 
 
 .txt2{
