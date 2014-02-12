@@ -32,7 +32,7 @@ height: auto;
 	overflow:hidden;
 	word-wrap: break-word;
 }
-@media screen and (max-width: 767px){
+@media screen and (max-width: 100px){
     txt2{ width:100%}
 }
 
