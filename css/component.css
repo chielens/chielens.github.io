@@ -22,18 +22,18 @@ height: auto;
     display:block;
 }
 
-.containertxt{margin:auto; width:60%;}
+.containertxt{margin:auto; width:80%;}
 
 
 .txt2{
-    width:20%;
+    width:80%;
     min-width:100px;
 	float:left;
 	padding: 0 20px;
 	overflow:hidden;
 	word-wrap: break-word;
 }
-@media screen and (max-width: 100px){
+@media screen and (max-width: 300px){
     txt2{ width:50%}
 }
 
