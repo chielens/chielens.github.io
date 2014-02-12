@@ -22,14 +22,12 @@ height: auto;
     display:block;
 }
 
-.containertxt{margin:auto;  max-width:800px;}
+.containertxt{margin:0 auto;  max-width:800px;}
 
 
 .txt2{
-    width:40%;
     min-width:200px;
 	min-height:200px;
-	float:left;
 	padding: 0 20px;
 	overflow:hidden;
 	word-wrap: break-word;
