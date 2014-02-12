@@ -21,7 +21,7 @@ height: auto;
     height:100% !important;
     display:block;
 }
-.txt{width:500px;
+.txt{max-width:500px;
 margin-top:20%;
 height:500px;
 margin: 0 auto;
