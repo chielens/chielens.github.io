@@ -28,7 +28,6 @@ height: auto;
     min-width:100px;
 	background-color:#0F9;
 	margin:0 auto;
-	display:inline;
 }
 @media screen and (max-width: 767px){
     txt{ width:100%}
@@ -59,7 +58,28 @@ width:300px;}
 
 
 a{color:#FFF;}
-b{color:#FFF;font-family: 'Share Tech', sans-serif;}
+
+b {color:#FFF;font-family: 'Share Tech', sans-serif;
+    font-size: 20px;
+}
+
+@media all and (max-device-width: 720px){
+    h1 {
+        font-size: 18px;
+    }
+}
+
+@media all and (max-device-width: 640px){
+    h1 {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-device-width: 320px){
+    h1 {
+        font-size: 12px;
+    }
+}
 
 
 .grid li {
