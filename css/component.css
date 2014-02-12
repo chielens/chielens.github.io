@@ -35,7 +35,7 @@ height: auto;
 
 
 .beeld{
-	background-image: url(/chielens.github.io/images/aboutfoto.png);
+	background-image: url(../images/aboutfoto.png);
 	background-position:100%;
 	background-repeat:no-repeat;
 	width:50%;
