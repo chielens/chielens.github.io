@@ -35,6 +35,10 @@ height: auto;
 
 
 .beeld{
+	background-image: url(/chielens.github.io/images/aboutfoto.png);
+	background-position:100%;
+	overflow:hidden;
+	background-repeat:no-repeat;
 	width:50%;
 	min-width: 250px;
 	min-height:250px;
@@ -42,8 +46,7 @@ height: auto;
 	overflow:hidden;
 	float:left;
 	margin-left:50px;
-	margin-bottom:20px;
-background-color:#3F3;}
+	margin-bottom:20px;}
 
 
 
