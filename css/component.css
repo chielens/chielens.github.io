@@ -28,7 +28,6 @@ height: auto;
 .txt2{
     min-width:350px;
 	min-height:200px;
-	padding:30px;
 	overflow:hidden;
 	word-wrap: break-word;
 }
