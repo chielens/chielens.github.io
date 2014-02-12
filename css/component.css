@@ -23,6 +23,16 @@ height: auto;
 }
 .txt{max-width:33%;
 margin-top:20%;
+position: relative;
+float:left
+height:500px;
+margin: 0 auto;
+padding:30px;}
+
+.txt2{max-width:33%;
+margin-top:20%;
+position: relative;
+float:left
 height:500px;
 margin: 0 auto;
 padding:30px;}
