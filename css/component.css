@@ -22,11 +22,11 @@ height: auto;
     display:block;
 }
 
-.containertxt{margin:0 auto;  max-width:300px; margin-top:50px;}
+.containertxt{margin:0 auto;  max-width:800px; margin-top:50px;}
 
 
 .txt2{
-    min-width:350px;
+    min-width:33%;
 	min-height:200px;
 	padding:0 30px;
 	overflow:hidden;
