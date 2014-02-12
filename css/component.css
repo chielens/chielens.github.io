@@ -28,7 +28,7 @@ height: auto;
 .txt2{
     min-width:250px;
 	min-height:200px;
-	padding: 0 30px;
+	padding:30px;
 	margin-top:50px;
 	overflow:hidden;
 	word-wrap: break-word;
@@ -44,7 +44,7 @@ height: auto;
 	overflow:hidden;
 	float:left;
 	margin-left:50px;
-	margin-top:25px;
+	margin-top:50px;
 background-color:#3F3;}
 
 
