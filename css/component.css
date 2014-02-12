@@ -35,8 +35,8 @@ height: auto;
 
 
 .beeld{
-	width:60%;
-	min-width: 30%;
+	width:30%;
+	min-width: 15%;
 	min-height:250px;
 	padding:30px;
 	overflow:hidden;
