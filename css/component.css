@@ -37,9 +37,8 @@ height: auto;
 }
 
 .txt{
-	display:block;
-width:300px;
-height:300px;
+min-width:300px;
+	min-height:200px;
 overflow:hidden;
 padding: 0 50px;
 background-color:#3F3;
