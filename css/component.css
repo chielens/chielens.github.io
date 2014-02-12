@@ -33,8 +33,8 @@ height: auto;
 	overflow:hidden;
 	word-wrap: break-word;
 }
-@media screen and (max-width: 300px){
-    txt2{ width:50%}
+@media screen and (max-width: 200px){
+    txt2{ width:50%; font-size:9px;}
 }
 
 .txt{
