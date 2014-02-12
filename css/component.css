@@ -53,14 +53,13 @@ a{color:#FFF;}
 
 b {
 	color:#FFF;
-	font-family: 'Cabin:400italic', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
     font-size: 14px;
 	font-weight:100;
 }
 h1{
 	color:#FFF200;
-	font-family: 'Philosopher : 400italic', sans-serif;
-	font-style:italic;
+	font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
 
 .grid {
