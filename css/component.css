@@ -39,7 +39,7 @@ height: auto;
 .txt{
 min-width:30%;
 	min-height:200px;
-	padding: 0 50px;
+	padding:50px;
 	overflow:hidden;
 	float:left;
 background-color:#3F3;}
