@@ -120,7 +120,8 @@ padding: 20px 0;}
 .grid li a{position:relative;}
 
 .grid li a:hover .item-titel{display:block;
-background-color: rgba(255,255,255,.8);
+background-color: #FCD629;
+opacity:.8;
 bottom:0;
 left:0;
 }
