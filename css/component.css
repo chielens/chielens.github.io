@@ -117,10 +117,10 @@ text-align:center;
 color:#655A74;
 font-size:80%;
 padding: 50px 0;
--webkit-transition: width 3s ease-in-out;
--moz-transition: width 1s ease-in-out;
--o-transition: width 1s ease-in-out;
-transition: width 3s ease-in-out;}
+-webkit-transition: margin-left;
+-webkit-transition-timing-function: ease-in;
+-webkit-transition-duration: 250ms;
+}
 
 .grid li a{position:relative;}
 
@@ -129,6 +129,7 @@ background-color: #FCD629;
 opacity:.8;
 bottom:0;
 left:0;
+margin-left:100px;
 
 }
 
