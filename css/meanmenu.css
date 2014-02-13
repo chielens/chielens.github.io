@@ -77,7 +77,7 @@ a.meanmenu-reveal {
 	padding: 1em 5%;
 	margin: 0;
 	text-align: center;
-	color: #0075B5;
+	color: #655A74;
 	border-top: 1px solid #FFF;
 	border-top: 1px solid rgba(255,255,255,0.5);
 	text-decoration: none;
@@ -85,7 +85,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-nav ul li a:hover {
-	background: #0075B5;
+	background: #655A74;
 	color:#FFF;
 }
 
@@ -100,7 +100,7 @@ a.meanmenu-reveal {
 	top: 0;
 	z-index: 2;
 	font-weight: 700;
-	background:#0075B5;
+	background:#655A74;
 
 }
 
