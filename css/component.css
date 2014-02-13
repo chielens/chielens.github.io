@@ -120,7 +120,7 @@ padding: 50px 0;}
 
 .grid li a{position:relative;}
 
-.grid li a:hover .item-titel{display:block;
+.grid li a:hover .item-titel{display:inherit;
 background-color: #FCD629;
 opacity:.8;
 bottom:0;
