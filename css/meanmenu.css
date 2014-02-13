@@ -32,7 +32,7 @@ a.meanmenu-reveal {
 	top: 0;
 	right: 0;
 	cursor: pointer;
-	color: #FFF200;
+	color: #655A74;
 	text-decoration: none;
 	font-size: 16px;
 	text-indent: -9999em;
@@ -45,7 +45,7 @@ a.meanmenu-reveal {
 
 .mean-container a.meanmenu-reveal span {
 	display: block;
-	background:#0075B5;
+	background:#655A74;
 	height: 3px;
 	margin-top: 3px;
 }
@@ -150,7 +150,7 @@ margin-left: 1em;
 
 
 nav a {
-color: #0075B5;
+color: #655A74;
 font-family: 'Lato', sans-serif;
 font-size:18px;
 margin-left:20px;
