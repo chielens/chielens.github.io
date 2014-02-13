@@ -53,15 +53,16 @@ a{color:#FFF;
 
 .b{
 	color:#FFF;
-	font-family: 'Lato', sans-serif;
-    font-size: 18px;
-	font-weight:100;
+	font-family: 'Muli', sans-serif;
+    font-size: 14px;
+	font-weight:200;
 	line-height:22px;
 }
 .c{
 	color:#FFF200;
-	font-family: 'Lato', sans-serif;
-    font-size: 30px;}
+	font-family: 'Muli', sans-serif;
+	font-weight:400;
+    font-size: 25px;}
 
 .grid {
 	max-width: 69em;
@@ -115,8 +116,8 @@ margin:0;
 padding:0;
 text-align:center;
 color:#655A74;
-font-size:80%;
-padding: 50px 0;
+font-size:100%;
+padding: 10px 0;
 
 }
 
@@ -127,7 +128,6 @@ background-color: #FCD629;
 opacity:.8;
 bottom:0;
 left:0;
-
 
 }
 
