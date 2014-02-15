@@ -39,7 +39,7 @@ a.meanmenu-reveal {
 	line-height: 22px;
 	font-size: 1px;
 	display: block;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Muli', sans-serif;
 	font-weight: 700;
 }
 
@@ -150,10 +150,9 @@ margin-left: 1em;
 
 nav a {
 color: #655A74;
-font-family: 'Lato', sans-serif;
+font-family: 'Muli', sans-serif;
 font-size:18px;
 margin-left:20px;
-
 }
 
 nav a:hover {
