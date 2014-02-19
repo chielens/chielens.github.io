@@ -53,7 +53,7 @@ a.meanmenu-reveal {
 .mean-container .mean-nav {
 	float: left;
 	width: 100%;
-	background: #D1D3D4;
+	background: #FFF;
 	margin-top: 44px;
 }
 
@@ -77,15 +77,15 @@ a.meanmenu-reveal {
 	padding: 1em 5%;
 	margin: 0;
 	text-align: center;
-	color: #FFF;
-	border-top: 1px solid #D1D3D4;
+	color: #C9453A;
+	border-top: 1px solid #C9453A;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
 .mean-container .mean-nav ul li a:hover {
 	background: #D1D3D4;
-	color:#C9453A;
+	color:#FFF;
 }
 
 .mean-container .mean-nav ul li a.mean-expand {
