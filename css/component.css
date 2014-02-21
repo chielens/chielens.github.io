@@ -56,17 +56,18 @@ a{color:#FFF;
 }
 
 .b{
-	color:#000;
+	color:#FFF;
 	font-family: 'Muli', sans-serif;
     font-size: 14px;
 	font-weight:200;
 	line-height:22px;
+	font-weight:100;
 }
 .c{
 	color:#C9453A;
 	font-family: 'Muli', sans-serif;
-	font-weight:400;
-    font-size: 25px;}
+	font-weight:100;
+    font-size: 20px;}
 
 .grid {
 	max-width: 69em;
