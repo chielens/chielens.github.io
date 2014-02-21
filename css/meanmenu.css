@@ -149,7 +149,7 @@ margin-left: 1em;
 
 
 nav a {
-color: #C9453A;
+color: #000;
 font-family: 'Muli', sans-serif;
 font-weight:100;
 font-size:16px;
@@ -157,7 +157,7 @@ margin-left:20px;
 }
 
 nav a:hover {
-color: #D1D3D4;
+color: #C9453A;
 }
 
 
