@@ -151,7 +151,8 @@ margin-left: 1em;
 nav a {
 color: #C9453A;
 font-family: 'Muli', sans-serif;
-font-size:18px;
+font-weight:100;
+font-size:15px;
 margin-left:20px;
 }
 
