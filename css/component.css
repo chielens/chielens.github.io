@@ -37,9 +37,8 @@ height: auto;
 .beeld{
 	background-image: url(../images/foto_b.png);
 	width:85%;
+	height:300px;
 	max-width:400px;
-	height:auto;
-	overflow:hidden;
 	float:left;
 	margin-left:30px;
 	margin-bottom:20px;}
@@ -66,19 +65,14 @@ a{color:#FFF;
     font-size: 30px;
 	line-height:0px;}
 	
-	.d{
+.d{
 	color:#000;
 	font-family: 'Muli', sans-serif;
 	font-weight:100;
     font-size: 15px;
 	line-height:0px;}
 	
-		.d:hover{
-	color:#099;
-	font-family: 'Muli', sans-serif;
-	font-weight:100;
-    font-size: 15px;;
-	line-height:0px;}
+
 	
 
 .grid {
