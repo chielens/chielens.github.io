@@ -26,7 +26,7 @@ height: auto;
 
 
 .txt2{
-    min-width:40%;
+    min-width:45%;
 	min-height:200px;
 	padding:0 30px;
 	overflow:hidden;
@@ -35,13 +35,10 @@ height: auto;
 
 
 .beeld{
-	background-image: url(../images/aboutfoto.png);
-	background-position:100%;
-	background-repeat:no-repeat;
-	width:50%;
-	min-width: 250px;
-	min-height:250px;
-	padding:30px;
+	background-image: url(../images/foto_b.png);
+	width:85%;
+	max-width:400px;
+	height:auto;
 	overflow:hidden;
 	float:left;
 	margin-left:30px;
@@ -60,13 +57,28 @@ a{color:#FFF;
 	font-family: 'Muli', sans-serif;
     font-size: 14px;
 	font-weight:100;
-	line-height:22px;
+	line-height:25px;
 }
 .c{
 	color:#DB8A75;
 	font-family: 'Muli', sans-serif;
 	font-weight:100;
-    font-size: 20px;}
+    font-size: 30px;
+	line-height:0px;}
+	
+	.d{
+	color:#000;
+	font-family: 'Muli', sans-serif;
+	font-weight:100;
+    font-size: 15px;
+	line-height:0px;}
+	
+		.d:hover{
+	color:#099;
+	font-family: 'Muli', sans-serif;
+	font-weight:100;
+    font-size: 15px;;
+	line-height:0px;}
 	
 
 .grid {
