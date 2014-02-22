@@ -12,7 +12,7 @@ bottom:0;
 
 .logoklein{width:50px; height:50px; float: left; margin-left:10px; position:blaock; overflow:hidden; background-image: url(../images/logo_klein.png); }
 
-
+.containertxt{margin:0 auto;  max-width:800px; margin-top:50px;}
 .logo{
 	width: 80%;
 max-width: 500px;
