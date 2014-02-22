@@ -10,7 +10,7 @@ margin:0 auto;
 bottom:0;
 }
 
-.logoklein{width:30px; height:30px; background-color:#0F6; float: left; margin-left:10px; margin-top:10px; margin-bottom:10px; position:blaock; overflow:hidden; }
+.logoklein{width:50px; height:50px; float: left; margin-left:10px; position:blaock; overflow:hidden; background-image: url(../images/logo_klein.png); }
 
 
 .logo{
