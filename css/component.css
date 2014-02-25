@@ -27,15 +27,27 @@ height: auto;
 
 
 .txt2{
-    min-width:45%;
+    width:200px;
+	min-width:45%;
 	min-height:200px;
 	padding:0 30px;
+	float:left;
 	overflow:hidden;
 	word-wrap: break-word;
 }
 
 
 .beeld{
+	background-image: url(../images/foto_b.png);
+	width:85%;
+	height:300px;
+	max-width:400px;
+	float:left;
+	margin-left:30px;
+	margin-bottom:20px;}
+	
+	
+.map{
 	background-image: url(../images/foto_b.png);
 	width:85%;
 	height:300px;
