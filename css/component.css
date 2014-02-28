@@ -12,7 +12,7 @@ bottom:0;
 
 
 
-.containertxt{margin:0 auto;  max-width:800px; margin-top:50px;}
+.containertxt{margin:0 auto; width:600px; margin-top:50px;}
 .logo{
 	width: 80%;
 max-width: 500px;
@@ -27,11 +27,23 @@ height: auto;
 
 
 .txt2{
-    width:200px;
+	margin:auto;
+    max-width:400px;
 	min-width:45%;
+	position:absolute;
 	min-height:200px;
 	padding:0 30px;
+	overflow:hidden;
+	word-wrap: break-word;
+}
+
+
+.txt3{
 	float:left;
+	max-width:400px;
+	min-width:70%;
+	min-height:200px;
+	padding:0 30px;
 	overflow:hidden;
 	word-wrap: break-word;
 }
@@ -39,19 +51,19 @@ height: auto;
 
 .beeld{
 	background-image: url(../images/foto_b.png);
-	width:85%;
-	height:300px;
-	max-width:400px;
-	float:left;
+	width:250px;
+		position:absolute;
+
+	height:400px;
+		float:left;
 	margin-left:30px;
 	margin-bottom:20px;}
 	
 	
 .map{
-	background-image: url(../images/foto_b.png);
-	width:85%;
+	display:block;
+	width:300px;
 	height:300px;
-	max-width:400px;
 	float:left;
 	margin-left:30px;
 	margin-bottom:20px;}
@@ -76,7 +88,7 @@ a{color:#FFF;
 	font-family: 'Muli', sans-serif;
 	font-weight:100;
     font-size: 30px;
-	line-height:0px;}
+	line-height:25px;}
 	
 .d{
 	color:#FFF;
