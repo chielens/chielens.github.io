@@ -13,8 +13,18 @@ bottom:0;
 
 
 .containertxt{margin:0 auto; width:600px; margin-top:50px;}
-.containertxt2{margin:0 auto;width:35%; min-width:350px; margin-top:50px; }
+.containertxt2{margin:0 auto;width:37%; min-width:370px; margin-top:50px; }
 
+.logo{
+	width: 80%;
+max-width: 500px;
+height: auto;
+    margin:0 auto;
+}
+.logo img{
+    width:100% !important;
+    height:100% !important;
+}
 
 
 .txt2{
@@ -32,7 +42,7 @@ bottom:0;
 .txt3{
 	float:left;
 	max-width:300px;
-	min-width:300;
+	min-width:100px;
 	min-height:200px;
 	padding:0 30px;
 	overflow:hidden;
