@@ -13,16 +13,7 @@ bottom:0;
 
 
 .containertxt{margin:0 auto; width:600px; margin-top:50px;}
-.logo{
-	width: 80%;
-max-width: 500px;
-height: auto;
-    margin:0 auto;
-}
-.logo img{
-    width:100% !important;
-    height:100% !important;
-}
+.containertxt2{margin:0 auto;width:35%; min-width:350px; margin-top:50px; }
 
 
 
@@ -40,8 +31,8 @@ height: auto;
 
 .txt3{
 	float:left;
-	max-width:400px;
-	min-width:70%;
+	max-width:300px;
+	min-width:300;
 	min-height:200px;
 	padding:0 30px;
 	overflow:hidden;
@@ -52,10 +43,9 @@ height: auto;
 .beeld{
 	background-image: url(../images/foto_b.png);
 	width:250px;
-		position:absolute;
-
+	position:absolute;
 	height:400px;
-		float:left;
+	float:left;
 	margin-left:30px;
 	margin-bottom:20px;}
 	
